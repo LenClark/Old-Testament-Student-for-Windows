@@ -1,0 +1,43 @@
+Load the text data
+------------------
+                  
+Fields:           
+======            
+                  
+1    Global word id    A sequential count of all OT words in book, chapter, verse, occurrence order 
+2    Global Verse id   Each verse is allocated a unique integer, in the same order                  
+3    Book no.          Int (1 - 39) These are "keys" to Titles.txt in the Source directory          
+4    Chapter no.       Int (1 - n)                                                                  
+                         Note: real numbers, not sequence.  So                                      
+                         a) not 0-based                                                             
+                         b) requires a seperate sequence number when processing chapters            
+5    Verse no.         Int (1 - n) Similar constraints to field 4                                   
+6    Word sequence no. Int (0 - n) (note: zero-based, unlike the other counts)                      
+7    Word              String.  This is the word as used in the text                                
+                         Note: there are a small number of "words" that are actually multiple words 
+                               and contain spaces.  These have been replaced by non-breaking space   
+                               (hex 0x00a0) so that a normal space can be used as a boundary value  
+                               between words.                                                       
+8    Unaccented Word   I.e. the word in field 7 with accents removed but retaining                  
+                         a) vowels                                                                  
+                         b) sin/shin dots                                                           
+                         c) dagesh (forte and line)                                                 
+                         d)                                                                         
+                         e) any non-breaking spaces embedded in the text                            
+9    Bare Word         I.e. the word in field 7 with *all* pointing removed but retaining any       
+                         embedded non-breaking spaces                                               
+10   Affix             String sequence (if it exists, such as a mappeq) affixed (postfixed) to the  
+                         word but not an integral part of the word.                                 
+11   Prefix marker     Code to indicate whether the current "word" is seperated from the following  
+                         word by a space or not:                                                    
+                         1   This word is prefixed to the following word,                           
+                         0   A space follows this word                                              
+12   Internal code     In the original source data, this was prefixed with "E"                      
+13   Strong Reference  The identified Strong reference or references.  In the original data this    
+                         was prefixed with "H".                                                     
+                         Note that there can be more than one code, in which case subsequent values 
+                         are seperated by "+".  (I think this indicates that the word is composed   
+                         of more than one Hebrew word and each Strongs code relates to each word.   
+14   Gloss             A simple meaning to the word, as provided by Strongs (a bit naive really)    
+15   Morphology        I.e. a summarised grammatical analysis. It remains to be seen just how       
+                         accurate this summary is                                                   

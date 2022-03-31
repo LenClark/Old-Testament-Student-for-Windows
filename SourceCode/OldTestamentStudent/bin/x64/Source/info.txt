@@ -1,0 +1,179 @@
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\BDB.csv
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\bhbDescription.rtf
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Codes.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Debug
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Description of OTText file.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\hebrewbiblestudent.ico
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Images
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\info.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Kethib_Qere.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Titles.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\OTText.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\OTText.txt.old
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Titles.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\versionHistory.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\WordToBdb.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Debug\Check.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Debug\classGlobal.cs
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Debug\classRegistry.cs
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Debug\frmMain.cs
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Debug\frmMain.Designer.cs
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon\L1_authors_and_works.html
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon\L2_epigraphical_publications.html
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon\L3_papyrological_publications.html
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon\L4_periodicals.html
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon\L5_general_abbreviations.html
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\GkLexicon\LandSSummary.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\accuteAccents.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\breathingConversion1.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\breathingConversion2.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\circumflexAccents.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\diaereses.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\graveAccents.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\iotaSubscripts.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\roughBreathings.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Greek\smoothBreathings.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\01 Opening Window.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\02 Application Areas.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\03 Orientation Panel.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\04 Additional Orientation.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\04 Additional Orientationxx.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\05 Text Pane.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\06 Information Area.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\07 Navigating the Main Text Area.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\08 Managing the text.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\09 Further menu options.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\09b Copy Options dialog.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\09c Reset Options.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\10 Windows Key.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\11 Parsing a word.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\12 Lexical information.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\13 History.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\14 The Search panel.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\15 From Main Text.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\16 Resulting input.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\17 Search Results.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\17b Search Results visible.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\18 Selecting specific books.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\19 Specific books gone.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\20 The book list.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\21 Moses has gone.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\22 The Virtual Keyboard.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\23 Secondary Selection.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\24 Resulting Secondary Entry.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\25 Secondary Search Result.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\26 Search pop-up menu.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\27 Main Menu - file option.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\28 Preferences Dialog.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\29 Preferences Dialog Example.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\30 Search Results Preferences.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\31 Main menu - Notes.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\32 New Note Set.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\33 Different Note Set.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\34 Delete a Note Set.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\35 Current Note Set.JPG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\36 Main menu - Help.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\37 About box.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\38 Equalise.PNG
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\9d Kethib-Qere option.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\9e Kethib-Qere display.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\email.jpg
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Help\Help.html
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Images\OTStudent.ico
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Images\OTStudent.png
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Images\OTStudent.psd
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\gkKeyFaceMaj.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\gkKeyFaceMin.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\gkKeyHintMaj.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\gkKeyHintMin.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\hebKeyFace.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\hebKeyHint.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\keyWidths.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Keyboard\nonprintKeys.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\01_Gen.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\02_Exod.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\03_Lev.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\04_Num.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\05_Deut.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\06_JoshB.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\07_JoshA.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\08_JudgesB.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\09_JudgesA.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\10_Ruth.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\11_1Sam.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\12_2Sam.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\13_1Kings.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\14_2Kings.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\15_1Chron.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\16_2Chron.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\17_1Esdras.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\18_2Esdras.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\19_Esther.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\20_Judith.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\21_TobitBA.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\22_TobitS.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\23_1Macc.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\24_2Macc.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\25_3Macc.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\26_4Macc.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\27_Psalms.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\28_Odes.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\29_Proverbs.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\30_Qoheleth.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\31_Canticles.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\32_Job.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\33_Wisdom.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\34_Sirach.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\35_PsSol.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\36_Hosea.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\37_Micah.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\38_Amos.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\39_Joel.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\40_Jonah.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\41_Obadiah.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\42_Nahum.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\43_Habakkuk.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\44_Zeph.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\45_Haggai.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\46_Zech.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\47_Malachi.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\48_Isaiah.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\49_Jer.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\50_Baruch.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\51_EpJer.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\52_Lam.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\53_Ezek.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\54_BelOG.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\55_BelTh.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\56_DanielOG.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\57_DanielTh.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\58_SusOG.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\LXX_Text\59_SusTh.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\History.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\0
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\3
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\48
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\9
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\NoteSetName.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\0\1-11.note
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\0\1-12.note
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\LXX\0000000000\48\6-8.note
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\History.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\History.txt.xxx
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\0
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\1
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\23
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\4
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\NoteSetName.txt
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\0\1-11.note
+E:\VS_Projects\2019\c#\2022\Hebrew\OldTestamentStudent\OldTestamentStudent\bin\x64\Source\Notes\MT\0000000000\0\1-12.note

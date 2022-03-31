@@ -1,0 +1,52 @@
+hataf segol
+hataf kamats
+hataf patah
+segol
+dagesh
+tsere
+hiriq
+sheva
+kamats
+patah
+kubuts
+holam
+Backspace 
+shin dot
+sin dot
+qof
+resh
+aleph
+tet
+vav
+nun sofit
+mem sofit
+pe
+maqaf
+Generic accent - ole
+Delete
+shin/sin
+dalet
+gimel
+kaf
+ayin
+yod
+het
+lamed
+kaf sofit
+pe sofit
+
+
+Clear entry
+
+zayin
+samekh
+bet
+he
+nun
+mem
+tsadi
+tav
+tsadi sofit
+
+Space
+
