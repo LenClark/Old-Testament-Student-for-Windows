@@ -1,0 +1,7 @@
+Version 1.0.2		2 April 2021
+Checked out the implimentation of Kethib/Qere
+Modified the About dialog to make it a little more flexible.
+Added specific progress information and progress bar to the initial progress dialog
+
+Version 1.0.1		14 March 2021
+Tidy up the application and make ready for public use.
